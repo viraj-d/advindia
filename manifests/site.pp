@@ -1,6 +1,6 @@
 ## site.pp ##
 
 node 'viraj.abhsindia.local'{
-  include advindia  
+  include advindia_sw  
 }
 
