@@ -1,6 +1,7 @@
 ## site.pp ##
 
-node 'viraj.abhsindia.local'{
-  include advindia_sw  
+node 'sangeeta-pc.abhsindia.local'{
+  include a2c
+  include a2creleases
 }
 
