@@ -1,4 +1,7 @@
 # Modules from GitHub
+'
+forge "http://forge.puppetlabs.com"
+
 mod 'advindia_sw',
   :git => 'https://github.com/viraj-d/advindia-sw.git'
   
