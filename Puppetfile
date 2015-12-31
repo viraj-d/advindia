@@ -7,4 +7,7 @@ mod  'a2c',
   
 mod 'a2creleases',
    :git => 'https://github.com/viraj-d/puppet-a2cRelease.git'
+   
+mod 'iis_service',
+ :git => 'https://github.com/AdvancedLearning/advlearning-iis_service.git'   
   
