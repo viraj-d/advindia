@@ -1,6 +1,14 @@
 
 forge "http://forge.puppetlabs.com"
 
+# Modules from the Puppet Forge
+mod "simondean/iis"
+mod "simondean/net_share"
+mod "puppet/sslcertificate"
+mod "jriviere/windows_isos"
+mod "jriviere/windows_ad"
+mod "chocolatey/chocolatey"
+
 # Modules from GitHub 
 #mod 'advindia_sw',
 #  :git => 'https://github.com/viraj-d/advindia-sw.git'
